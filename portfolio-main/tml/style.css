@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif; /* Семейство шрифтов */
+    font-size: 20px; /* Размер основного шрифта в <p></p>  */
+    background-color: #f0f0f0; /* Цвет фона веб-страницы */
+    color: #333333; /* Цвет основного текста */ 
+}
+h1 {
+    font-size: large;
+    color:#f0f0f0
+}
+header {
+    background-color: #5988FF; /* Цвет фона веб-страницы */
+    height: 50px; 
+    width: 100%;
+}
+footer {
+    background-color: #5988FF; /* ��вет фона веб-страницы */
+    height: 100px; 
+    width: 100%;
+}
+.f{
+    color: #f0f0f0;
+}
+section{
+    border-style: double;
+}
